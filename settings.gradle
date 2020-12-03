@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "RAIHAN_26_RPL1_2020"
